@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi there 👋, I am Mohamad Mouaz Al Midani Aka Mufacy man_technologist
 
 <!--
 **Mufacy/Mufacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on:
+  Laravel CRM, SBAM Team's Task manager Backend
+  
+  
+- 🌱 I’m currently focused on learning ...
+  Laravel, Algorithams and datastructures, 
+  
+  
 - 👯 I’m looking to collaborate on ...
+   anything fun honestly!
+   
+   
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  Artificial intelligence 
+  
+  
+- 💬 Ask me about
+  Anything you are welcome
+  
+  
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  <a href="https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/">
+         <img alt="Qries" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"
+         width=150" height="70">
+  </a>
+  
+  
 - ⚡ Fun fact: ...
 -->
