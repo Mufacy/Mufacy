@@ -22,11 +22,7 @@
   
   
 - 📫 How to reach me: ...
-  <a href="https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/">
-         <img alt="Qries" src="https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png"
-         width=150" height="70">
-  </a>
-  [ [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" ](https://www.google.com)
+  [![somename](https://www.seekpng.com/png/detail/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
 <!--
 - ⚡ Fun fact: ...
 -->
