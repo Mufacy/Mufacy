@@ -27,6 +27,7 @@
 [![linkedin](https://user-images.githubusercontent.com/75386848/115081046-2fbba400-9ef3-11eb-95c7-e90940852a27.png)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
 [![instagram](https://user-images.githubusercontent.com/75386848/115081348-a5277480-9ef3-11eb-977c-c72e12a78319.png)](https://www.instagram.com/Mufacy_/)
 [![telegram](https://user-images.githubusercontent.com/75386848/115081359-a8bafb80-9ef3-11eb-824c-cd156449ec19.png)](https://t.me/Mufacy)
+[![fiverr](https://user-images.githubusercontent.com/75386848/115082421-6a264080-9ef5-11eb-80d5-5872c4a6a711.png)](https://www.fiverr.com/mufacy)
 
 <!--
 - ⚡ Fun fact: ...
