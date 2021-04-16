@@ -22,9 +22,7 @@
   
   
 - 📫 How to reach me: ...
-
-![google.com](https://user-images.githubusercontent.com/75386848/115080400-3269c980-9ef2-11eb-9298-dd9226b9eaba.png)
-
+[![iconmonstr-linkedin-3-64](https://user-images.githubusercontent.com/75386848/115080509-65ac5880-9ef2-11eb-9374-efd9916ba1ae.png)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
 <!--
 - ⚡ Fun fact: ...
 -->
