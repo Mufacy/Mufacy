@@ -1,9 +1,5 @@
-### Hi there 👋, I am Mohamad Mouaz Al Midani Aka Mufacy man_technologist
+### Hi there 👋, I am Mohamad Mouaz Al Midani Aka Mufacy
 
-<!--
-**Mufacy/Mufacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
   Laravel CRM, SBAM Team's Task manager Backend
@@ -31,6 +27,6 @@ Here are some ideas to get you started:
          width=150" height="70">
   </a>
   
-  
+<!--
 - ⚡ Fun fact: ...
 -->
