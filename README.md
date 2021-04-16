@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I am Mohamad Mouaz Al Midani Aka Mufacy
 
 
@@ -23,8 +24,7 @@
   
 - 📫 How to reach me: ...
 
-
-[![linkedin](https://user-images.githubusercontent.com/75386848/115080942-0ac73100-9ef3-11eb-84f1-bf659f1eaf4d.png)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
+[![linkedin](https://user-images.githubusercontent.com/75386848/115081046-2fbba400-9ef3-11eb-95c7-e90940852a27.png)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
 <!--
 - ⚡ Fun fact: ...
 -->
