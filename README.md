@@ -23,7 +23,8 @@
   
   
 - 📫 How to reach me: ...
-  [![somename](https://ibb.co/55GFpX3)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
+  [![LinkedIn](https://ibb.co/55GFpX3)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
+  [[LinkedIn1](https://ibb.co/55GFpX3)](https://www.linkedin.com/in/mohamad-mouaz-al-midani-157ba3201/)
 <!--
 - ⚡ Fun fact: ...
 -->
