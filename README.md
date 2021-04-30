@@ -29,6 +29,7 @@
 [![telegram](https://user-images.githubusercontent.com/75386848/115081359-a8bafb80-9ef3-11eb-824c-cd156449ec19.png)](https://t.me/Mufacy)
 [![fiverr](https://user-images.githubusercontent.com/75386848/115082421-6a264080-9ef5-11eb-80d5-5872c4a6a711.png)](https://www.fiverr.com/mufacy)
 
-<!--
-- ⚡ Fun fact: ...
--->
+
+- ⚡ Sites I am active on: ...
+[![codingg](https://user-images.githubusercontent.com/75386848/116764198-dc2b7900-aa0f-11eb-8981-a5f313e10893.png)](https://www.codingame.com/profile/bd74aa11dd57824160661bcbb51745e85590034)
+
