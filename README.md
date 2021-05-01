@@ -34,4 +34,4 @@
 - ⚡ Sites I am active on: ...
 
 [![CODEG](https://user-images.githubusercontent.com/75386848/116769270-54069d00-aa2a-11eb-9c7b-46820876c84f.png)](https://www.codingame.com/profile/bd74aa11dd57824160661bcbb51745e85590034)
-
+[![coursera](https://user-images.githubusercontent.com/75386848/116769370-1fdfac00-aa2b-11eb-82f0-086869b29125.png)](https://www.coursera.org/user/28c843e2c90439e91d1194dadf9892d1)
