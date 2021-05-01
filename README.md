@@ -1,4 +1,5 @@
 
+
 ### Hi there 👋, I am Mohamad Mouaz Al Midani Aka Mufacy
 
 
@@ -32,5 +33,5 @@
 
 - ⚡ Sites I am active on: ...
 
-[![codingg](https://user-images.githubusercontent.com/75386848/116764198-dc2b7900-aa0f-11eb-8981-a5f313e10893.png)](https://www.codingame.com/profile/bd74aa11dd57824160661bcbb51745e85590034)
+[![CODEG](https://user-images.githubusercontent.com/75386848/116769270-54069d00-aa2a-11eb-9c7b-46820876c84f.png)](https://www.codingame.com/profile/bd74aa11dd57824160661bcbb51745e85590034)
 
